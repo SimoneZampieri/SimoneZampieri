@@ -22,6 +22,11 @@ Sono Simone, nella vita faccio il Web Developer, principalmente per dare libero 
   Una replica creativa dell'interfaccia di Airbnb, ultimata durante il mio percorso di studi in Boolean 
   🔗 [Guarda il progetto](https://github.com/RobertoFloris/react-bool-beb)
 
+- 📬 **Gmail Debloater (Chrome Extension)**  
+  Un'estensione per Chrome che ti aiuta a trovare, evidenziare e disiscriverti facilmente dalle newsletter indesiderate.  
+  Perfetta per chi vuole una casella di posta pulita e zen 🧘‍♂️  
+  🔗 [Guarda il progetto](https://github.com/SimoneZampieri/gmail-debloater)
+
 ---
 
 ### 🔗 Dove trovarmi:

@@ -6,7 +6,7 @@ Sono Simone, nella vita faccio il Web Developer, principalmente per dare libero 
 
 ### 💻 Tecnologie e strumenti che uso con piacere:
 
-- **Linguaggi**: HTML, CSS, JavaScript, MySQL 
+- **Linguaggi**: HTML, CSS, JavaScript, MySQL, TypeScript
 - **Framework & Librerie**:  
   🚀 Vite · ⚛️ React · 🌬️ TailwindCSS · 🎨 Bootstrap · 🌳 Node.js
 

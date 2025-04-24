@@ -38,7 +38,7 @@ Sono Simone, nella vita faccio il Web Developer, principalmente per dare libero 
 
 ### ✨ Fun fact
 
-> A volte il codice va scritto... a fumetti! 😄  
-> Grande appassionato di motori, specialmente le auto da rally!
-> Ottimo cuoco, so fare degli ottimi spaghetti di riso saltati
+-A volte il codice va scritto... a fumetti! 😄  
+-Grande appassionato di motori, specialmente le auto da rally!
+-Ottimo cuoco, so fare degli ottimi spaghetti di riso saltati, e il mio ragù non si batte (spiaze per Barbieri...)
 
